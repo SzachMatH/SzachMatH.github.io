@@ -6,7 +6,7 @@ order: 5
 
 # Welcome to my blog!
 
-My name is Bartosz Szachniewicz. I am a bachellor of mathematics and am currently studying Computer science at University of Wroclaw. 
+My name is Bartosz Szachniewicz. I am a bachellor of mathematics and am currently studying computer science at University of Wroclaw. 
 
 ## What will this blog be about?
 
@@ -17,3 +17,7 @@ I think I'd like to blog about things that interest me - that being mathematics,
 ## Why is this blog in english?
 
 My goal is to share my interests with everyone. Since more people speak english than polish I'll stick with english, but some posts will propably be written in polish/both.
+
+# Contact 
+
+e-mail : szach[dot]bart(YouKnowWhat)gmail.com

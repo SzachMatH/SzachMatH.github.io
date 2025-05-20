@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 # Welcome to my blog!
@@ -16,4 +16,4 @@ I think I'd like to blog about things that interest me - that being mathematics,
 
 ## Why is this blog in english?
 
-My goal is to share my interests with anyone. Since more people speak english than polish I'll stick with english, but some posts will propably be written in polish/both.
+My goal is to share my interests with everyone. Since more people speak english than polish I'll stick with english, but some posts will propably be written in polish/both.

@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
 # Welcome to my blog!
@@ -12,7 +12,10 @@ My name is Bartosz Szachniewicz. I am a bachellor of mathematics and am currentl
 
 We will see :)
 
-I think I'd like to blog about things that interest me - that being mathematics, computer science and cooking. Sometimes I'll learn about a cool topic that I think is particulary interesting (like fermenting my kimchi, derived functors in homological algebra or some cool data structure). This is a place to write about such topic. Maybe I'll also post about sports, like windsurfing, bouldering or weightlifting? 
+I think I'd like to blog about things that interest me - that being mathematics, computer science and cooking. Sometimes I'll learn about a cool topic that I think is particulary interesting (like fermenting my kimchi, derived functors in homological algebra or some cool data structure). This is a place to write about such topic. Maybe I'll also post about sports, like windsurfing, bouldering or weightlifting?
+
+![Me_in_Prague](/pictures/Me_in_Prague.jpeg){: w="250"}
+_Picture of me when visiting Prague_
 
 ## Why is this blog in english?
 
